@@ -366,7 +366,7 @@ If we are able to model behavior of these energy high waves efficiently, the bet
 
 Most of the functions have been commented nicely to provide clarification. 
     
- In `KDV.py`, we have the running algorithms for the KdV equation. Similar running codes such as `CH.py` and `CH2.py` can all be found on my GitHub repository. 
+ In `KDV.py`, we have the running algorithms for the KdV equation. Similar running codes such as `CH.py` and `CH2.py` can all be found on my [GitHub repository](https://github.com/angeleneleow/simplified-tsunami-modelling).
  
 
  1.	A function definition called `findx(h)` is created to find the spatial interval (need to create a list to store all the x-values that will be tested, h(step size) as a parameter so that we know which numerical values to put in the list). 
