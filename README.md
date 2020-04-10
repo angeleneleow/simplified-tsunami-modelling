@@ -1,7 +1,2 @@
-# Tsunami-Wave-Modeling
-
-Coltin Lappin-Lux
-October-November 2016
-Computer Science/Mathematics Capstones
-
-Each Python File uses two initial wave data files (RHO & U).
+# Numerical Analysis for Simplified Tsunami Modelling 
+> ATSC 409 Final Project, Angelene Leow (23162167)
