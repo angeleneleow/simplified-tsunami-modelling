@@ -1,6 +1,3 @@
-# Coltin Lux
-# 30 November 2016 
-# Mathematics/Computer Science Capstone
 # 2CH Equation (Two Component Camassa - Holm Equation)
 # m(sub-t) + um(sub-x) + 2mu(sub-x) = -gpp(sub-x)
 # m - momentum
